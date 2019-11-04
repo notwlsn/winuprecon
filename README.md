@@ -2,8 +2,8 @@
 batch file for underprivileged basic recon in Windows
 
 # Install <br>
-Just download the file <br>
-`git clone https://github[.]com/notwlsn/winuprecon.git`
+Just download the file, or <br>
+type `git clone https://github[.]com/notwlsn/winuprecon.git` into a git cmd line
   
 # Usage <br>
 1. Change output directory to somewhere writeable using a text editor <br>
