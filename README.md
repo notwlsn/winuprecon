@@ -3,7 +3,7 @@ batch file for underprivileged basic recon in Windows
 
 # Install <br>
 Just download the file <br>
-/git clone /
+`git clone (url)`
   
 # Usage <br>
 1. Change output directory to somewhere writeable using a text editor <br>
