@@ -1,0 +1,18 @@
+@echo off
+ipconfig /all>>"C:\1.txt"
+net start>>"C:\1.txt"
+tasklist /v>>"C:\1.txt"
+net user>>"C:\1.txt"
+net localgroup administrators>>"C:\1.txt"
+netstat -ano>>"C:\1.txt"
+net use>>"C:\1.txt"
+net view>>"C:\1.txt"
+net view /domain>>"C:\1.txt"
+net group /domain>>"C:\1.txt"
+net group "domain users" /domain>>"C:\1.txt"
+net group "domain admins" /domain>>"C:\1.txt"
+net group "domain controllers" /domain>>"C:\1.txt"
+net group "exchange domain servers" /domain>>"C:\1.txt"
+net group "exchange servers" /domain>>"C:\1.txt"
+net group "domain computers" /domain>>"C:\1.txt"
+exit 0
