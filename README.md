@@ -1,7 +1,12 @@
 # WinUPRecon <br>
-batch file for underprivileged basic recon in Windows
+batch file for underprivileged basic recon in Windows<br>
+NOTE: Script has been tested with and is not caught by -><br>
+<ul>
+Symantec Endpoint Protection<br>
+Windows Defender ATP<br>
+Avast AV <br>
+</ul>
 <br>
-NOTE: Script has been tested with and is not caught by -> Symantec Endpoint Protection, Windows Defender ATP, Avast AV
 
 # Install <br>
 Just download the file, or <br>
