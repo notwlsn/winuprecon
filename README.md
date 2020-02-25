@@ -1,16 +1,14 @@
-# WinUPRecon <br>
-batch file for underprivileged basic recon in Windows<br>
-NOTE: Script has been tested with and is not caught by -><br>
+# WinUPRecon
+<h3>Batch file for underprivileged basic recon in Windows</h3>
+<br> Script has been tested with and is not caught by:
 <ul>
 Symantec Endpoint Protection<br>
 Windows Defender ATP<br>
 Avast AV <br>
 </ul>
-<br>
 
 # Install <br>
-Just download the file, or <br>
-type `git clone https://github[.]com/notwlsn/winuprecon.git` into a git cmd line
+Just download the file, or type <code>git clone https://github[.]com/notwlsn/winuprecon.git</code> into a git cmd line
   
 # Usage <br>
 1. Change output directory to somewhere writeable using a text editor <br>
@@ -19,3 +17,6 @@ type `git clone https://github[.]com/notwlsn/winuprecon.git` into a git cmd line
 
 # Disclaimer <br>
 I'm probably not the first person to think of this or use a script like this. I'm just putting it up here for general community use. I'm sure I don't 'own' this code, I certainly don't claim to.
+
+# Background <br>
+I've seen this used a lot by Chinese APT groups, specifically APT17 and APT19.
